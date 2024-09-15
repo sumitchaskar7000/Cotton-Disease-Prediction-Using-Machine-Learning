@@ -54,5 +54,3 @@
 5. Start the Node.js server.
 6. Set up communication between Node.js and Flask using `axios`.
 7. Start the Flask server for the machine learning model.
-
-This keeps it under 10 steps, focusing on the core installation and connection tasks.
