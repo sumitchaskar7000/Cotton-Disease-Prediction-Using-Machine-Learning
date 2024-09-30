@@ -1,4 +1,4 @@
-
+## The Cotton Disease Prediction Using Machine Learning** project uses Convolutional Neural Networks (CNN) and transfer learning to identify and classify different diseases in cotton plants by analyzing images. The model is trained on a variety of cotton plant images to improve its accuracy. Additionally, the project includes a chatbot that interacts with users once a disease is detected. This chatbot provides helpful information about the identified disease, such as its causes, symptoms, and treatment options. This easy-to-use solution helps farmers get timely information, allowing them to make better decisions to protect their crops and improve farming results.
 
 ### Frontend (React):
 1. **Install Dependencies:**
